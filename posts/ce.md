@@ -2,9 +2,12 @@
 title : "稀奇古怪的中国经济"
 author : "ym"
 tags : ["misc1", "misc2", "misc3"]
+categories : ["misc1", "misc2", "misc3"]
 date : "2026-01-01T01:08:24Z"
 description : "这是一篇文章"
+summary : "这是一篇文章"
 image : "images/npm-init-command-1.png"
+images : ["images/npm-init-command-1.png"]
 slug : "ce"
 draft : false
 ---

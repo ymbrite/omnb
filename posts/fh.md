@@ -1,11 +1,14 @@
 ---
-title : "战马"
 author : "ym"
+categories : ["misc1", "misc2", "misc3"]
 tags : ["misc1", "misc2", "misc3"]
 date : "2026-01-01T01:03:24Z"
 description : "这是一篇文章"
+summary : "这是一篇文章"
 image : "images/npm-init-command-1.png"
+images : ["images/npm-init-command-1.png"]
 slug : "fh"
+title : "战马"
 draft : false
 ---
 
